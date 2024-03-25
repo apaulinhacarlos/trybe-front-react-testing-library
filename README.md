@@ -44,12 +44,17 @@ Instale as dependencias do projeto com o comando `npm install`:
 npm install
 ```
 
-or fim, utilize o comando npm test para fazer os testes.
+Utilize o comando `npm test` para fazer os testes:
 
 ```bash
 npm test
 ```
 
+Utilize o comando `npx stryker run` para fazer os testes dos testes escritos por mim 🙃:
+
+```bash
+npx stryker run
+```
 ---
 
 ### Quem testa os testes?
