@@ -46,6 +46,8 @@ npm install
 
 Utilize o comando `npm test` para fazer os testes:
 
+⚠️ Importante: Utilize a versão 16 do Node.
+
 ```bash
 npm test
 ```
