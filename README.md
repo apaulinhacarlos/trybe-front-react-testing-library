@@ -50,7 +50,7 @@ Utilize o comando `npm test` para fazer os testes:
 npm test
 ```
 
-Utilize o comando `npx stryker run` para fazer os testes dos testes escritos por mim 🙃:
+Utilize o comando `npx stryker run` para fazer os testes dos testes escritos por mim 🙃
 
 ```bash
 npx stryker run
